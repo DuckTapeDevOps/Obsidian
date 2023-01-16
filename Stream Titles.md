@@ -6,3 +6,5 @@
 - **DevOps Dude DIY** : STEM Enthusiasts! Today on DevOpsDude DIY I'll be working on The Real MVP: NALA (Nonpareil Amazon Lambda API), an API built with AWS API Gateway, Docker in Lambda, and Python Flask! Come join us at https://twitch.tv/NonpareilNic and learn a bit about DevOps and Docker Server hosting! Follow along: https://github.com/NonpareilDevOps/NALA
 	- DevOps Dude DIY: Building the real MVP, NALA (Nonpareil Amazon Lambda API)
 				export PROMPT="NALA - $(basename "$PWD"):"
+
+Tales of the Duck Tape Programmer
