@@ -49,3 +49,11 @@ No one would look at my life and deny that. But it didn't come easy. Some of us 
 I want to educate people like me.
 
 I am nonpareil.
+
+Well, today I'm DuckTapeDevOpsDude
+
+Tomorrow, it's DuckTapeDevOps
+
+Or... DuckTapeArchitech?
+
+Well, maybe I'm TheDuckTapeArchitecht
