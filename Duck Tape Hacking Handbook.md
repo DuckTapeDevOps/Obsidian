@@ -1,10 +1,13 @@
+# Duck Tape Hacking Handbook
+
 1) Naming variables is the hardest challenge in creating (software).
 2) Never cheapen your art by calling it content
-3)  Documentation is like sex. When it’s good, it’s very good. When it’s bad, it’s better than nothing. - EggB1rd
-4) Always be self masturbatory until someone else does it for you
+3) Life Lesson: there's infinite content to consume, yet only 1 chance for you to consume. - Scottie_Fox
+4) Documentation is like sex. When it’s good, it’s very good. When it’s bad, it’s better than nothing. - EggB1rd
+5) Always be self masturbatory until someone else does it for you
 	1) #Absolute 
-5) When building a house, start with the infrastructure (the foundation), progress to the plumbing (APIS), paint the interior (CI/CD), then finish with a beautiful external paint job (UI). But you don't start building the house by just throwing pieces together. You start with an architectural plan that ensure all of the infrastructure, plumbing, facade, etc. will come together as cleanly as possible. Poor planning leads to poor execution.
-6) Make it work, make it right, make it fast.
+6) When building a house, start with the infrastructure (the foundation), progress to the plumbing (APIS), paint the interior (CI/CD), then finish with a beautiful external paint job (UI). But you don't start building the house by just throwing pieces together. You start with an architectural plan that ensure all of the infrastructure, plumbing, facade, etc. will come together as cleanly as possible. Poor planning leads to poor execution.
+7) Make it work, make it right, make it fast.
 	1) Make it work:
 		1) Create the Mimimum Viable Product (MVP).
 			1) MVP is an achieveable goal that has a boolean/binary answer.
@@ -13,22 +16,22 @@
 			1) Feature/Feature_Name (Private, team level view)
 				1) Local machine, self.
 	2) Compound the Obtain, Process, and Push process (COPP) (Make it right):
-		3) #Compound 
-		4) #Extract 
+		1) #Compound 
+		2) #Extract 
 			1) #learn 
 			2) #Obtain 
 				1) #Unobtainium is a term used in fiction, engineering, and common situations for a material ideal for a particular application but impractically hard to get.
-		5) #Transform (more than meets the eye)
+		3) #Transform (more than meets the eye)
 			1) #Process
-		6) #Load
+		4) #Load
 			1) #Educate
 			2) #Push
 			3) 
-		7) Make it easier to understand. Create a journey through your code. It starts at the ReadME and doesn't stop until the reader has caught up to your expierence. Educate the next enthusiast and lead them to contribute their knowledge to your database.
-		8) Make it ETL. When someone extracts the code from your work, ensure that the way it transforms in their mind before they load back into their own system includes a deep education for compounded ETL
-		9) Make the actual ETL process. Do DevOps. Add CI/CD. Automate your COPE to get to ACOPP (Automated Compounded Obtain Proccess Push).
+		5) Make it easier to understand. Create a journey through your code. It starts at the ReadME and doesn't stop until the reader has caught up to your expierence. Educate the next enthusiast and lead them to contribute their knowledge to your database.
+		6) Make it ETL. When someone extracts the code from your work, ensure that the way it transforms in their mind before they load back into their own system includes a deep education for compounded ETL
+		7) Make the actual ETL process. Do DevOps. Add CI/CD. Automate your COPE to get to ACOPP (Automated Compounded Obtain Proccess Push).
 			1) ACCEPPT (Automate Compound Compound Experience Process Transformation)
-		10) 0.1.0 Main Branch initial push
+		8)  0.1.0 Main Branch initial push
 	3) Make it fast:
 		1) Make it efficient. Clean it up in a way that speeds up both creation and education. This will minimize the referencial experience loss (REL).
 			1) #Referencial #Experience #Loss (REL):
