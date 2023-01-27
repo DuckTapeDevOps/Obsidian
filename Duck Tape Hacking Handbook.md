@@ -2,8 +2,8 @@
 
 1) Naming variables is the hardest challenge in creating (software).
 2) Never cheapen your art by calling it content
-3) Life Lesson: there's infinite content to consume, yet only 1 chance for you to consume. - Scottie_Fox
-4) Documentation is like sex. When it’s good, it’s very good. When it’s bad, it’s better than nothing. - EggB1rd
+3) Life Lesson: there's infinite content to consume, yet only 1 chance for you to consume. - #Scottie_Fox
+4) #Documentation is like sex. When it’s good, it’s very good. When it’s bad, it’s better than nothing. - #EggB1rd
 5) Always be self masturbatory until someone else does it for you
 	1) #Absolute 
 6) When building a house, start with the infrastructure (the foundation), progress to the plumbing (APIS), paint the interior (CI/CD), then finish with a beautiful external paint job (UI). But you don't start building the house by just throwing pieces together. You start with an architectural plan that ensure all of the infrastructure, plumbing, facade, etc. will come together as cleanly as possible. Poor planning leads to poor execution.
