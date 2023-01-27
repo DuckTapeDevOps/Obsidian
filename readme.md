@@ -46,7 +46,9 @@ And I fucking love it.
 
 But I've failed over and over and over. I don't fail lightly. I fucking gun it. I fucking crash and I fucking burn. I cry; I get depressed; It hurts. But like the great philosopher Chumbawamba told me in Tubthumping, when I get knocked down, I get up again. You're never gonna keep me down.
 
-My first passion was UNC basketball. My first big failure was school. So I applied to UNC and only UNC. I didn't know why I didn't apply to other schools. But I wanted to go there! I didn't get in. Knocked down, time to get up again.
+My first passion was UNC basketball. My first big failure was school. So I applied to UNC and only UNC. I didn't know why I didn't apply to other schools. But I wanted to go there! I didn't get in. I used to blow by this as if it didn't matter. But what I was told at that moment, when I had no school to go to was that I wasn't intelligent enough to get into higher education. That's part of this journey. Stories of failures. 
+
+Knocked down, time to get up again.
 
 ~My step-dad: "I have a friend at HPU, you can go there, and I know you're not good enough at track to run at UNC, but I bet you could there!"
 
